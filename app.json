@@ -42,8 +42,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Make sure the Plug was turned off before opening the pairing wizard, now turn it on to start pairing. If the device is not automatically added try to reset it.",
-            "nl": "Zorg ervoor dat de Plug uit stond alvorens de pairing wizard te openen. Zet de Plug nu aan om het pairen te starten. Als het apparaat niet automatisch wordt toegevoegd probeer het dan eerst te resetten."
+            "en": "Toggle the Plug to start pairing.\n\nIf pairing does not automatically start, try turning the Plug on and off 6 times.",
+            "nl": "Zet de Plug uit en weer aan.\n\nWordt de Plug niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
           }
         }
       }
@@ -74,8 +74,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Make sure the bulb was turned off before opening the pairing wizard, now turn it on to start pairing. If the device is not automatically added try to reset it.",
-            "nl": "Zorg ervoor dat de lamp uit stond alvorens de pairing wizard te openen. Zet de lamp nu aan om het pairen te starten. Als het apparaat niet automatisch wordt toegevoegd probeer het dan eerst te resetten."
+            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start, try turning the device on and off 6 times.",
+            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
           }
         }
       },
@@ -125,8 +125,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Make sure the Flex RGBW was turned off before opening the pairing wizard, now turn it on to start pairing. If the device is not automatically added try to reset it.",
-            "nl": "Zorg ervoor dat de Flex RGBW uit stond alvorens de pairing wizard te openen. Zet de Flex RGBW nu aan om het pairen te starten. Als het apparaat niet automatisch wordt toegevoegd probeer het dan eerst te resetten."
+            "en": "Toggle the Flex RGBW to start pairing.\n\nIf pairing does not automatically start, try turning the device on and off 6 times.",
+            "nl": "Zet de Flex RGBW uit en weer aan.\n\nWordt de Flex RGBW niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
           }
         }
       },
@@ -173,8 +173,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Make sure the bulb was turned off before opening the pairing wizard, now turn it on to start pairing. If the device is not automatically added try to reset it.",
-            "nl": "Zorg ervoor dat de lamp uit stond alvorens de pairing wizard te openen. Zet de lamp nu aan om het pairen te starten. Als het apparaat niet automatisch wordt toegevoegd probeer het dan eerst te resetten."
+            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start, try turning the device on and off 6 times.",
+            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
           }
         }
       },
