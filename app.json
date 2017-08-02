@@ -1,6 +1,6 @@
 {
   "id": "com.osram.lightify.zigbee",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "sdk": 2,
   "compatibility": ">=1.5.0",
   "category": "lights",
@@ -74,8 +74,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start, try turning the device on and off 6 times.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
+            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times with a 5 second interval. It will flash to indicate it has been reset.",
+            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer aan en uit te zetten met 5 seconden tussenpozen. De lamp zal knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -125,8 +125,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Toggle the Flex RGBW to start pairing.\n\nIf pairing does not automatically start, try turning the device on and off 6 times.",
-            "nl": "Zet de Flex RGBW uit en weer aan.\n\nWordt de Flex RGBW niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
+            "en": "Toggle the Flex RGBW to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times with a 5 second interval. It will flash to indicate it has been reset.",
+            "nl": "Zet de Flex RGBW uit en weer aan.\n\nWordt de Flex RGBW niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer aan en uit te zetten met 5 seconden tussenpozen. De lamp zal knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -173,8 +173,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start, try turning the device on and off 6 times.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
+            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times with a 5 second interval. It will flash to indicate it has been reset.",
+            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer aan en uit te zetten met 5 seconden tussenpozen. De lamp zal knipperen om aan te geven dat hij is gereset."
           }
         }
       },
