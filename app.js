@@ -5,7 +5,7 @@ const Log = require('homey-log').Log;
 
 class OsramApp extends Homey.App {
 	onInit() {
-		this.log('init OsramApp')
+		this.log('init OsramApp');
 	}
 }
 
