@@ -69,7 +69,7 @@
       },
       "zigbee": {
         "manufacturerName": "OSRAM",
-        "productId": "Classic A60 RGBW",
+        "productId": ["Classic A60 RGBW", "PAR 16 50 RGBW - LIGHTIFY"],
         "deviceId": 528,
         "profileId": 49246,
         "learnmode": {
