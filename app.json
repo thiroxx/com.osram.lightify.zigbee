@@ -74,8 +74,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times with a 5 second interval. It will flash to indicate it has been reset.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer aan en uit te zetten met 5 seconden tussenpozen. De lamp zal knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times (one toggle: 5 seconds off, 5 seconds on). It will flash to indicate it has been reset.",
+            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer te schakelen (één keer schakelen: 5 seconden uit, 5 seconden aan). De lamp zal knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -125,8 +125,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Toggle the Flex RGBW to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times with a 5 second interval. It will flash to indicate it has been reset.",
-            "nl": "Zet de Flex RGBW uit en weer aan.\n\nWordt de Flex RGBW niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer aan en uit te zetten met 5 seconden tussenpozen. De lamp zal knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the Flex RGBW to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times (one toggle: 5 seconds off, 5 seconds on). It will flash to indicate it has been reset.",
+            "nl": "Zet de Flex RGBW uit en weer aan.\n\nWordt de Flex RGBW niet automatisch toegevoegd binnen 20 seconden, probeer dan de Flex RGBW te resetten door het 6 keer te schakelen (één keer schakelen: 5 seconden uit, 5 seconden aan). De Flex RGBW zal knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -173,8 +173,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times with a 5 second interval. It will flash to indicate it has been reset.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer aan en uit te zetten met 5 seconden tussenpozen. De lamp zal knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times (one toggle: 5 seconds off, 5 seconds on). It will flash to indicate it has been reset.",
+            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan de lamp te resetten door het 6 keer te schakelen (één keer schakelen: 5 seconden uit, 5 seconden aan). De lamp zal knipperen om aan te geven dat hij is gereset."
           }
         }
       },
