@@ -42,8 +42,8 @@
         "profileId": 49246,
         "learnmode": {
           "instruction": {
-            "en": "Toggle the Plug to start pairing.\n\nIf pairing does not automatically start, try turning the Plug on and off 6 times.",
-            "nl": "Zet de Plug uit en weer aan.\n\nWordt de Plug niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
+            "en": "Plug in the Plug, or toggle the Plug to start pairing.\n\nIf pairing does not automatically start, try turning the Plug on and off 6 times.",
+            "nl": "Stop de Plug in het stopcontact of zet de Plug uit en weer aan om hem toe te voegen.\n\nWordt de Plug niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten."
           }
         }
       }
