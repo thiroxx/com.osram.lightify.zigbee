@@ -27,7 +27,7 @@
         "en": "Plug (ZigBee)",
         "nl": "Plug (ZigBee)"
       },
-      "class": "light",
+      "class": "socket",
       "capabilities": [
         "onoff"
       ],
