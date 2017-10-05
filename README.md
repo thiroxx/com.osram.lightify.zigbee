@@ -6,6 +6,9 @@ Note: the [App](https://apps.athom.com/app/com.osram.lightify) using the bridge 
 
 #### Changelog
 
+1.2.0
+- Added Gardenspot Mini RGB support
+
 1.1.0
 - Added GU10 RGBW spot, GU10 White spot and E14 White bulb
 
