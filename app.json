@@ -1,6 +1,6 @@
 {
   "id": "com.osram.lightify.zigbee",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "sdk": 2,
   "compatibility": ">=1.5.0",
   "category": "lights",
@@ -134,6 +134,59 @@
           "instruction": {
             "en": "Toggle the spot to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times (one toggle: 5 seconds off, 5 seconds on). It will flash to indicate it has been reset.",
             "nl": "Zet de spot uit en weer aan.\n\nWordt de spot niet automatisch toegevoegd binnen 20 seconden, probeer dan de spot te resetten door het 6 keer te schakelen (één keer schakelen: 5 seconden uit, 5 seconden aan). De spot zal knipperen om aan te geven dat hij is gereset."
+          }
+        }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Transition Time",
+            "nl": "Overgangstijd"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander."
+          },
+          "value": 1,
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
+    },
+    {
+      "id": "lightify_gardenspot_mini_rgb",
+      "name": {
+        "en": "Gardenspot Mini RGB (ZigBee)",
+        "nl": "Gardenspot Mini RGB (ZigBee)"
+      },
+      "class": "light",
+      "capabilities": [
+        "onoff",
+        "dim",
+        "light_hue",
+        "light_saturation",
+        "light_temperature",
+        "light_mode"
+      ],
+      "images": {
+        "large": "drivers/lightify_gardenspot_mini_rgb/assets/images/large.jpg",
+        "small": "drivers/lightify_gardenspot_mini_rgb/assets/images/small.jpg"
+      },
+      "zigbee": {
+        "manufacturerName": "OSRAM",
+        "productId": [
+          "Gardenspot RGB"
+        ],
+        "deviceId": 512,
+        "profileId": 49246,
+        "learnmode": {
+          "instruction": {
+            "en": "Toggle the gardenspots to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the device by toggling it 6 times (one toggle: 5 seconds off, 5 seconds on). It will flash to indicate it has been reset.",
+            "nl": "Zet de Gardenspot Mini RGB uit en weer aan.\n\nWordt het apparaat niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door het 6 keer te schakelen (één keer schakelen: 5 seconden uit, 5 seconden aan). De Gardenspot Mini RGB zal knipperen om aan te geven dat hij is gereset."
           }
         }
       },
