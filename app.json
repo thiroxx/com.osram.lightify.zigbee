@@ -1,6 +1,6 @@
 {
   "id": "com.osram.lightify.zigbee",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "sdk": 2,
   "compatibility": ">=1.5.0",
   "category": "lights",
@@ -231,7 +231,10 @@
       },
       "zigbee": {
         "manufacturerName": "OSRAM",
-        "productId": "Flex RGBW",
+        "productId": [
+          "Flex RGBW",
+          "LIGHTIFY Indoor Flex RGBW"
+        ],
         "deviceId": 528,
         "profileId": 49246,
         "learnmode": {
