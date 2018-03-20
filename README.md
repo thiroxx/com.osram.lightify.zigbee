@@ -1,4 +1,4 @@
-### Osram Lightify (ZigBee)
+ ### Osram Lightify (ZigBee)
 
 Control your Osram Lightify devices with Homey using ZigBee!
 
@@ -6,7 +6,7 @@ Note: the [App](https://apps.athom.com/app/com.osram.lightify) using the bridge 
 
 #### Changelog
 Private update by Johan_Bendz@hotmail.com
-- Added Gardenpole RGBW
+- Added Gardenpole RGBW support
 - Removed "speech": [] in app.json file, as it rendered an validation error.
 
 1.2.0
