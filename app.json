@@ -72,7 +72,8 @@
       "zigbee": {
         "manufacturerName": "OSRAM",
         "productId": [
-          "Classic A60 RGBW"
+          "Classic A60 RGBW",
+          "CLA60 RGBW OSRAM"
         ],
         "deviceId": 528,
         "profileId": 49246,
@@ -384,8 +385,15 @@
       },
       "zigbee": {
         "manufacturerName": "OSRAM",
-        "productId": "Classic A60 TW",
-        "deviceId": 544,
+        "productId": [
+          "Classic A60 TW",
+          "Classic A60 W clear - LIGHTYFY",
+          "CLA60 TW OSRAM"
+        ],
+        "deviceId": [
+          256,
+          544
+        ],
         "profileId": 49246,
         "learnmode": {
           "instruction": {
