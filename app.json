@@ -181,8 +181,8 @@
         "light_mode"
       ],
       "images": {
-        "large": "drivers/lightify_gardenpole_rgbw/assets/images/large.jpg",
-        "small": "drivers/lightify_gardenpole_rgbw/assets/images/small.jpg"
+        "large": "drivers/lightify_gardenpole_rgbw/assets/images/large.png",
+        "small": "drivers/lightify_gardenpole_rgbw/assets/images/small.png"
       },
       "zigbee": {
         "manufacturerName": "OSRAM",
@@ -234,8 +234,8 @@
         "light_mode"
       ],
       "images": {
-        "large": "drivers/lightify_gardenpole_mini_rgbw/assets/images/large.jpg",
-        "small": "drivers/lightify_gardenpole_mini_rgbw/assets/images/small.jpg"
+        "large": "drivers/lightify_gardenpole_mini_rgbw/assets/images/large.png",
+        "small": "drivers/lightify_gardenpole_mini_rgbw/assets/images/small.png"
       },
       "zigbee": {
         "manufacturerName": "OSRAM",
