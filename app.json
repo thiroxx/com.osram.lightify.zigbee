@@ -1,6 +1,6 @@
 {
   "id": "com.osram.lightify.zigbee",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "sdk": 2,
   "compatibility": ">=1.5.0",
   "category": "lights",
@@ -187,7 +187,8 @@
       "zigbee": {
         "manufacturerName": "OSRAM",
         "productId": [
-          "Gardenpole RGBW-Lightify"
+          "Gardenpole RGBW-Lightify",
+          "Gardenpole Mini RGBW OSRAM"
         ],
         "deviceId": 528,
         "profileId": 49246,
