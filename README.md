@@ -6,7 +6,7 @@ Note: the [App](https://apps.athom.com/app/com.osram.lightify) using the bridge 
 
 #### Changelog
 1.2.5
-- Added support for Ledvance (the new name for Osram lighting) GU10 bulbs
+- Added support for new GU10 bulbs
 
 1.2.4
 - Added product id for Lightify Flex (outdoor)
